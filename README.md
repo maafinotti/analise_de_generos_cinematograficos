@@ -25,7 +25,7 @@ Ao longo do estudo da API, o tema do trabalho foi decidido: Análise de Gêneros
 
 Dessa forma, o trabalho tem como objetivo analisar os gêneros de filmes que foram disponibilizados pela API, procurando entender quais gêneros tiveram maior alcance, de acordo com algumas variáveis, como o ano, popularidade, média de votos do filme, quantidade de votações, entre outros…
 
-Clique aqui (LINK) para acessar o relatório completo.
+Clique [aqui](https://github.com/maafinotti/analise_de_generos_cinematograficos/blob/main/An%C3%A1lise%20de%20G%C3%AAneros%20Cinematogr%C3%A1ficos.pdf) para acessar o relatório completo.
 
 ### :bookmark_tabs: Etapas
 - [x] Procurar APIs
