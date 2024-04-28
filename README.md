@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/maafinotti/analise_de_generos_cinematograficos/assets/106084544/e62574e6-8ee5-4fc6-855c-c00ba4afcdb8" alt="Logo da API" height="50px" />
+<a <href="https://rapidapi.com/jakash1997/api/advanced-movie-search"><img src="https://github.com/maafinotti/analise_de_generos_cinematograficos/assets/106084544/e62574e6-8ee5-4fc6-855c-c00ba4afcdb8" alt="Logo da API" height="50px" />
 </p>
 
 <h1 align="center">Análise de Gêneros Cinematográficos</h1>
