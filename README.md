@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/maafinotti/analise_de_generos_cinematograficos/assets/106084544/e62574e6-8ee5-4fc6-855c-c00ba4afcdb8" alt="Logo da API" height="100px" />
+</p>
+
 <h1 align="center">Análise de Gêneros Cinematográficos</h1>
 
 <h3 align="center">:computer: Projeto Final 1 do Quinto Semestre - PUC-SP :computer: </h3>
