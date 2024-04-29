@@ -14,7 +14,7 @@
 - Arthur Ferreira
 - Manoela Ferreira Finotti
 - [Melissa Assis da Silva](https://github.com/melassiss)
-- Rafael Amaranti
+- Rafael Amaranto
   
 ### :books: Sobre
 Primeiramente, foi decidido pelo grupo que o tema seria relacionado a filmes, streamings ou assuntos relacionados a esse ramo. Depois de buscar algumas APIs, requisito para o trabalho, foi decidido que seria a “Advanced Movie Search”, do site https://rapidapi.com/. 
